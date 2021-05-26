@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/noithat/static/css/main.3a1c2c01.chunk.css",
+    "main.js": "/noithat/static/js/main.1cbb3ba9.chunk.js",
+    "main.js.map": "/noithat/static/js/main.1cbb3ba9.chunk.js.map",
+    "runtime-main.js": "/noithat/static/js/runtime-main.f93f078d.js",
+    "runtime-main.js.map": "/noithat/static/js/runtime-main.f93f078d.js.map",
+    "static/js/2.541a77a8.chunk.js": "/noithat/static/js/2.541a77a8.chunk.js",
+    "static/js/2.541a77a8.chunk.js.map": "/noithat/static/js/2.541a77a8.chunk.js.map",
+    "index.html": "/noithat/index.html",
+    "precache-manifest.a5f328fac24232e5de26255a03eebae8.js": "/noithat/precache-manifest.a5f328fac24232e5de26255a03eebae8.js",
+    "service-worker.js": "/noithat/service-worker.js",
+    "static/css/main.3a1c2c01.chunk.css.map": "/noithat/static/css/main.3a1c2c01.chunk.css.map",
+    "static/js/2.541a77a8.chunk.js.LICENSE.txt": "/noithat/static/js/2.541a77a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f93f078d.js",
+    "static/js/2.541a77a8.chunk.js",
+    "static/css/main.3a1c2c01.chunk.css",
+    "static/js/main.1cbb3ba9.chunk.js"
+  ]
+}
